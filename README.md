@@ -1,10 +1,10 @@
-# 🔧 Scalable Multi-Bit ALU Architecture
+# Scalable Multi-Bit ALU Architecture
 
 > Parameterized 8-bit, 16-bit, and 32-bit ALU designs in Verilog supporting parallel arithmetic and bitwise logical operations, with RTL modules optimized for bit-width scaling and full behavioral simulation coverage.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements a **scalable Arithmetic Logic Unit (ALU)** in Verilog, designed to execute parallel arithmetic and bitwise logical operations across multiple bit-widths. The architecture uses parameterized RTL modules to allow seamless scaling from 8-bit to 16-bit to 32-bit datapaths, making it suitable for integration into high-frequency processor pipelines.
 
@@ -12,19 +12,19 @@ All designs were developed and simulated using **Vivado**, achieving 100% behavi
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ Parameterized RTL modules for seamless 8-bit, 16-bit, and 32-bit scaling
-- ✅ Parallel arithmetic operations — Addition, Subtraction, Multiplication
-- ✅ Bitwise logical operations — AND, OR, XOR, NOT
-- ✅ Optimized datapath routing for core instruction execution
-- ✅ Rigorous testbenches validating edge cases and corner conditions
-- ✅ 100% behavioral simulation accuracy across all operational states
-- ✅ Minimized gate-level propagation delay for high-frequency processor integration
+- Parameterized RTL modules for seamless 8-bit, 16-bit, and 32-bit scaling
+- Parallel arithmetic operations — Addition, Subtraction, Multiplication
+- Bitwise logical operations — AND, OR, XOR, NOT
+- Optimized datapath routing for core instruction execution
+- Rigorous testbenches validating edge cases and corner conditions
+- 100% behavioral simulation accuracy across all operational states
+- Minimized gate-level propagation delay for high-frequency processor integration
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 scalable-alu/
@@ -38,7 +38,7 @@ scalable-alu/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool / Language | Purpose |
 |---|---|
@@ -48,7 +48,7 @@ scalable-alu/
 
 ---
 
-## ⚙️ Supported Operations
+## Supported Operations
 
 | Operation | Type |
 |---|---|
@@ -62,7 +62,7 @@ scalable-alu/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Xilinx Vivado (2020.x or later recommended)
@@ -86,7 +86,7 @@ scalable-alu/
 
 ---
 
-## 📊 Simulation Results
+## Simulation Results
 
 - **Behavioral Simulation Accuracy:** 100% across all operational states
 - **Bit-widths Verified:** 8-bit, 16-bit, 32-bit
@@ -95,13 +95,13 @@ scalable-alu/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Hriddhima Saraswat**  
 [GitHub](https://github.com/scarletnova20)
