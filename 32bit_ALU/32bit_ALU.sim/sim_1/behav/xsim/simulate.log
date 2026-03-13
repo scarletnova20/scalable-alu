@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Time	 Opcode	 A(hex)		 B(hex)		 Result(hex)	 Zero
+0ns	 000	 00000000	 00000000	 00000000	 1
+10ns	 000	 00000005	 0000000a	 0000000f	 0
+20ns	 001	 00000010	 00000007	 00000009	 0
+30ns	 001	 aaaaaaaa	 aaaaaaaa	 00000000	 1
+40ns	 010	 ffff0000	 00ffff00	 00ff0000	 0
+50ns	 011	 ffff0000	 00ffff00	 ffffff00	 0
+60ns	 100	 ffffffff	 0f0f0f0f	 f0f0f0f0	 0
+70ns	 101	 ffff0000	 0f0f0f0f	 0000ffff	 0
+80ns	 110	 ffff0000	 12345678	 12345678	 0
+Simulation Finished.
+$finish called at time : 90 ns : File "C:/Users/hridd/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench.v" Line 115

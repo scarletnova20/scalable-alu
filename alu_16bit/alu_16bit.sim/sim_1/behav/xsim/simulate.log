@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Time	 Opcode	 A(hex)	 B(hex)	 Result(hex)	 Zero
+0ns	 000	 0000	 0000	 0000	 1
+10ns	 000	 0005	 000a	 000f	 0
+20ns	 001	 0010	 0007	 0009	 0
+30ns	 001	 aaaa	 aaaa	 0000	 1
+40ns	 010	 ff00	 0ff0	 0f00	 0
+50ns	 011	 ff00	 0ff0	 fff0	 0
+60ns	 100	 ffff	 0f0f	 f0f0	 0
+70ns	 101	 ff00	 0f0f	 00ff	 0
+80ns	 110	 ff00	 1234	 1234	 0
+Simulation Finished.
+$finish called at time : 90 ns : File "C:/Users/hridd/alu_16bit/alu_16bit.srcs/sim_1/new/tb_16bitalu.v" Line 111

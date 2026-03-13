@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/hridd/32bit_ALU/32bit_ALU.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/hridd/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench.v,1757424795,verilog,,,,testbench,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/hridd/32bit_ALU/32bit_ALU.srcs/sources_1/new/32bit_ALU.v,1757404450,verilog,,C:/Users/hridd/32bit_ALU/32bit_ALU.srcs/sim_1/new/testbench.v,,alu_32bit,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
