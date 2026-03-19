@@ -1,0 +1,33 @@
+# Vivado Project Files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.jou
+*.log
+*.str
+*.pb
+
+# Simulation outputs
+*.wdb
+*.wcfg
+
+# Synthesis and Implementation
+*.bit
+*.ltx
+*.dcp
+*.xdc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
